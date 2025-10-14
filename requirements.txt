@@ -1,0 +1,7 @@
+google-adk[database,litellm]
+yfinance
+ollama
+psutil
+litellm
+google-generativeai
+python-dotenv
